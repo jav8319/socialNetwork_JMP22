@@ -11,11 +11,11 @@
 
 ## Description  
 
-This application consist of a mongoDB database that syncs with local port 3001 when is run from the terminal by running the command line "npm start". it can process CRUD operations in two correlated models named "Thought" and "User". Users can create thoughts and friends, and the thoughts can have a reaction from another user. Users, thougts, friends can be deleted, reactions can be added to thoughts but not deleted. All the data is stored and retrieve from the mongo database name socialNetworkAPI.  
+This application consist of a mongoDB database that syncs with local port 3001 when is run from the terminal by running the command line "npm start". it can process CRUD operations in two correlated models named "Thought" and "User". Users and deleted. All the data is stored and retrieve from the mongo database name socialNetworkAPI.  
 
 ## Installation  
 
-The application needs node and mongoDB available in the local computer, once the app is downloaded, run "npm start" from the terminal in the folder containing the app. The database will be seeded with users only. Once this is done new users and thougts can be created as well as friends and reactions to thoughts. The application is available at https://github.com/jav8319/socialNetwork_JMP22.git 
+The application needs node and mongoDB available in the local computer, once the app is downloaded, run "npm start" from the terminal in the folder containing the app. The database will be seeded with users only. Once this is done new users and thoughts can be created as well as friends and reactions to thoughts. The application is available at https://github.com/jav8319/socialNetwork_JMP22.git 
 
 ## Usage  
 
