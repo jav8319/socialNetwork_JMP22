@@ -11,7 +11,7 @@
 
 ## Description  
 
-This application consist of a mongoDB database that syncs with local port 3001 when is run from the terminal by running the command line "npm start". it can process CRUD operations in two correlated models named "Thought" and "User". Users and deleted. All the data is stored and retrieve from the mongo database name socialNetworkAPI.  
+This application consist of a mongoDB database that syncs with local port 3001 when is run from the terminal by running the command line "npm start". it can process CRUD operations in two correlated models named "Thought" and "User". All the data is stored and retrieve from the mongo database named socialNetworkAPI.  
 
 ## Installation  
 
