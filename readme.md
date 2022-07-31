@@ -19,7 +19,8 @@ The application needs node and mongoDB available in the local computer, once the
 
 ## Usage  
 
-please click on the the videos to see instructions of usage https://drive.google.com/file/d/1eP3hNgdv9ndCcfw3DzWU-N2EhIkfvIMq/view?usp=sharing
+please click on the the videos to see instructions of usage 
+https://drive.google.com/file/d/1eP3hNgdv9ndCcfw3DzWU-N2EhIkfvIMq/view?usp=sharing
 
 https://drive.google.com/file/d/1m_UvlJZ0C-oul1JUa7nCct6WGemaUt4J/view?usp=sharing
 
