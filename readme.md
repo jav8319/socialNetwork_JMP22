@@ -15,7 +15,7 @@ This application consist of a mongoDB database that syncs with local port 3001 w
 
 ## Installation  
 
-The application needs node and mongoDB available in the local computer, once the app is downloaded, run "npm start" from the terminal in the folder containing the app. The database will be seeded with users only. Once this is done new users and thoughts can be created as well as friends and reactions to thoughts. The application is available at https://github.com/jav8319/socialNetwork_JMP22.git 
+The application needs node and mongoDB available in the local computer, once the application is downloaded, run "npm start" from the terminal in the folder containing the app. The database will be seeded with users only. Once this is done new users and thoughts can be created as well as friends and reactions to thoughts. The application is available at https://github.com/jav8319/socialNetwork_JMP22.git 
 
 ## Usage  
 
